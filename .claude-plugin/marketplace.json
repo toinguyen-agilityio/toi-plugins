@@ -1,0 +1,14 @@
+{
+    "name": "toi-plugins",
+    "description": "Toi's Claude Code plugins",
+    "owner": {
+        "name": "Toi Nguyen"
+    },
+    "plugins": [
+        {
+            "name": "file-bug",
+            "source": "./plugins/file-bug",
+            "description": "Write a reproduce-ready bug ticket for super-board"
+        }
+    ]
+}

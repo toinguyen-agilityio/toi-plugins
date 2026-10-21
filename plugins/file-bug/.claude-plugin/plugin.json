@@ -1,0 +1,8 @@
+{
+    "name": "file-bug",
+    "description": "Write a reproduce-ready bug ticket for super-board",
+    "version": "1.0.0",
+    "author": {
+        "name": "Toi Nguyen"
+    }
+}
