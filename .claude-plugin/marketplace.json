@@ -9,6 +9,11 @@
             "name": "file-bug",
             "source": "./plugins/file-bug",
             "description": "Write a reproduce-ready bug ticket for super-board"
+        },
+        {
+            "name": "newline-new-file",
+            "source": "./plugins/newline-new-file",
+            "description": "Hook: end every newly created file with a newline"
         }
     ]
 }

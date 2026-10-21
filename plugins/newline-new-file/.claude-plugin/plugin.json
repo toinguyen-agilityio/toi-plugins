@@ -1,0 +1,6 @@
+{
+    "name": "newline-new-file",
+    "description": "Hook: end every newly created file with a newline",
+    "version": "0.1.0",
+    "author": { "name": "Toi Nguyen" }
+}
